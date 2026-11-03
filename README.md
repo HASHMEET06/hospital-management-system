@@ -57,7 +57,7 @@ after adding, updating, or deleting records.
 **Note:** `patients.dat` is a local binary data file. Do not upload real
 or confidential patient information to a public GitHub repository. Use
 fictional/sample data for demonstrations.
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8c802d64-a4f6-4334-a18a-371a58b05ecb" />
+
 
 
 ## Limitations
@@ -71,6 +71,10 @@ The generated bill is a basic project bill, not a tax invoice.
 Add your name here.
 
 ## License
+<img width="1032" height="832" alt="working of project 1 (1)" src="https://github.com/user-attachments/assets/96cd50ef-6b98-4afe-bccd-0f74e8018d5b" />
+<img width="1920" height="979" alt="working of project 1 (2)" src="https://github.com/user-attachments/assets/6d37972b-e37d-46c0-9ed6-b2ef5dbf4906" />
+<img width="1920" height="982" alt="working of project 1 (3)" src="https://github.com/user-attachments/assets/b520626d-0882-4963-bab3-256f69e63199" />
+<img width="787" height="812" alt="working of project 1 (4)" src="https://github.com/user-attachments/assets/0f541264-d0b7-43ff-92b5-e9a5ea15b89e" />
 
 This project is shared for educational purposes. Add a license if you
 want to specify permissions for reuse.
