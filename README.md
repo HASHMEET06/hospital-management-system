@@ -57,6 +57,8 @@ after adding, updating, or deleting records.
 **Note:** `patients.dat` is a local binary data file. Do not upload real
 or confidential patient information to a public GitHub repository. Use
 fictional/sample data for demonstrations.
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8c802d64-a4f6-4334-a18a-371a58b05ecb" />
+
 
 ## Limitations
 
