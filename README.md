@@ -68,7 +68,7 @@ The generated bill is a basic project bill, not a tax invoice.
 
 ## Author
 
-Add your name here.
+Hashmeet UID=26BAI10033    
 
 ## License
 <img width="1032" height="832" alt="working of project 1 (1)" src="https://github.com/user-attachments/assets/96cd50ef-6b98-4afe-bccd-0f74e8018d5b" />
